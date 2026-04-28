@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Trò chuyện riêng tư",
+      "text": "Chúng tôi cung cấp một nền tảng trò chuyện riêng tư, nơi bạn có thể thảo luận về những vấn đề cá nhân và nhận được sự hỗ trợ và lắng nghe."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-eye-slash",
+      "title": "Bảo mật tuyệt đối",
+      "text": "Chúng tôi cam kết bảo vệ thông tin cá nhân của bạn và đảm bảo rằng mọi cuộc trò chuyện đều được giữ bí mật và an toàn."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Cộng đồng rộng lớn",
+      "text": "Tham gia vào cộng đồng rộng lớn của chúng tôi, nơi bạn có thể kết nối với những người có cùng sở thích và mục tiêu phát triển bản thân."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-star",
+      "title": "Lời khuyên cá nhân",
+      "text": "Chúng tôi cung cấp lời khuyên và sự thấu hiểu trong cuộc sống, giúp bạn đạt được mục tiêu của mình một cách hiệu quả."
     }
   ]
 }
